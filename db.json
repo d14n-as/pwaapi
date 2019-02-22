@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"African snake (unidentified)","category":"Teal"},
+{"id":2,"name":"Marmot, yellow-bellied","category":"Red"},
+{"id":3,"name":"Dove, rock","category":"Goldenrod"},
+{"id":4,"name":"Indian leopard","category":"Yellow"},
+{"id":5,"name":"Puma, south american","category":"Fuscia"},
+{"id":6,"name":"European wild cat","category":"Purple"},
+{"id":7,"name":"Weaver, sociable","category":"Teal"},
+{"id":8,"name":"Jackal, golden","category":"Khaki"},
+{"id":9,"name":"Cook's tree boa","category":"Mauv"},
+{"id":10,"name":"Green-backed heron","category":"Goldenrod"},
+{"id":11,"name":"Cuis","category":"Teal"},
+{"id":12,"name":"Mississippi alligator","category":"Mauv"},
+{"id":13,"name":"Macaque, rhesus","category":"Crimson"},
+{"id":14,"name":"Lapwing, southern","category":"Goldenrod"},
+{"id":15,"name":"Elk, Wapiti","category":"Khaki"},
+{"id":16,"name":"Oriental short-clawed otter","category":"Orange"},
+{"id":17,"name":"Gecko, ring-tailed","category":"Goldenrod"},
+{"id":18,"name":"Rhinoceros, square-lipped","category":"Indigo"},
+{"id":19,"name":"Jackrabbit, white-tailed","category":"Red"},
+{"id":20,"name":"Wolf spider","category":"Orange"}
+  ]
+}
